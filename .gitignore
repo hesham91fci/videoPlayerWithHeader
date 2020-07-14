@@ -1,0 +1,8 @@
+example/ios/Pods/
+example/.flutter-plugins
+example/.flutter-plugins-dependencies
+example/.packages
+example/pubspec.lock
+example/build/
+example/.dart_tool/
+example/.idea/
