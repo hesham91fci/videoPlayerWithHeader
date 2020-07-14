@@ -7,7 +7,7 @@ import android.content.Context;
 import android.media.AudioManager;
 import android.net.Uri;
 import android.os.Build;
-import android.support.annotation.Nullable;
+import androidx.annotation.Nullable;
 import android.view.Surface;
 import com.google.android.exoplayer2.C;
 import com.google.android.exoplayer2.ExoPlaybackException;
